@@ -1,0 +1,6 @@
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_Model\bin\Debug\Lab_1_Model.dll
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_Model\bin\Debug\Lab_1_Model.pdb
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_Model\obj\Debug\Lab_1_Model.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_Model\obj\Debug\Lab_1_Model.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_Model\obj\Debug\Lab_1_Model.dll
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_Model\obj\Debug\Lab_1_Model.pdb

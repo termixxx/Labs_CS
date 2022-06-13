@@ -1,0 +1,13 @@
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\bin\Debug\Lab_1_View.exe.config
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\bin\Debug\Lab_1_View.exe
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\bin\Debug\Lab_1_View.pdb
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\bin\Debug\Lab_1_Model.dll
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\bin\Debug\Lab_1_Model.pdb
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.Form1.resources
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.Properties.Resources.resources
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.csproj.GenerateResource.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.csproj.CopyComplete
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.exe
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_1_View\obj\Debug\Lab_1_View.pdb

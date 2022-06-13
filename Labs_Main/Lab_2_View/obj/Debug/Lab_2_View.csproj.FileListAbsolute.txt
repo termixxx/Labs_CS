@@ -1,0 +1,15 @@
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\bin\Debug\Lab_2_View.exe.config
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\bin\Debug\Lab_2_View.exe
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\bin\Debug\Lab_2_View.pdb
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\bin\Debug\Lab_2_Model.dll
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\bin\Debug\Lab_2_Model.pdb
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.Form1.resources
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.InputForm1.resources
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.InputForm2.resources
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.Properties.Resources.resources
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.csproj.GenerateResource.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.csproj.CopyComplete
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.exe
+C:\Users\zagor\Desktop\Lab_1_Model\Lab_2_View\obj\Debug\Lab_2_View.pdb
