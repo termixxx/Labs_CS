@@ -1,0 +1,6 @@
+C:\Users\zagor\Desktop\лабы\2 курс 2 семестр\c#\Labs_Main\Lab_4_Model\bin\Debug\Lab_4_Model.dll
+C:\Users\zagor\Desktop\лабы\2 курс 2 семестр\c#\Labs_Main\Lab_4_Model\bin\Debug\Lab_4_Model.pdb
+C:\Users\zagor\Desktop\лабы\2 курс 2 семестр\c#\Labs_Main\Lab_4_Model\obj\Debug\Lab_4_Model.csproj.AssemblyReference.cache
+C:\Users\zagor\Desktop\лабы\2 курс 2 семестр\c#\Labs_Main\Lab_4_Model\obj\Debug\Lab_4_Model.csproj.CoreCompileInputs.cache
+C:\Users\zagor\Desktop\лабы\2 курс 2 семестр\c#\Labs_Main\Lab_4_Model\obj\Debug\Lab_4_Model.dll
+C:\Users\zagor\Desktop\лабы\2 курс 2 семестр\c#\Labs_Main\Lab_4_Model\obj\Debug\Lab_4_Model.pdb
